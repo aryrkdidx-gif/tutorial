@@ -5,8 +5,8 @@ puDate: 2026-02-06
 description: '坂口安吾を綴る最初の投稿'
 author:'らぶらいは'
 image: 
-    url: 'https://docs.astro.build/assets/rose.01272dea_Z2vTarget.webp'
-    alt: 'Astroのロゴ'
+  url: 'https://docs.astro.build/assets/rose.01272dea_Z2vTarget.webp'
+  alt: 'Astroのロゴ'
 tags: ["ango" , "literature" , "astro"]
 ---
 # 不良少年とキリスト
